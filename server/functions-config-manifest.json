@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/v1/archives/[linkId]": {},
+    "/api/v1/migration": {},
+    "/admin": {},
+    "/auth/reset-password": {},
+    "/auth/verify-email": {},
+    "/collections/[id]": {},
+    "/collections": {},
+    "/confirmation": {},
+    "/dashboard": {},
+    "/forgot": {},
+    "/links": {},
+    "/links/pinned": {},
+    "/login": {},
+    "/preserved/[id]": {},
+    "/public/collections/[id]": {},
+    "/public/preserved/[id]": {},
+    "/register": {},
+    "/search": {},
+    "/settings/access-tokens": {},
+    "/settings/account": {},
+    "/settings/billing": {},
+    "/settings/delete": {},
+    "/settings/password": {},
+    "/settings/preference": {},
+    "/subscribe": {},
+    "/tags/[id]": {}
+  }
+}
